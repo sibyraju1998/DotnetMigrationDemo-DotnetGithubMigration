@@ -1,8 +1,9 @@
 # DotnetMigrationDemo - Azure DevOps to GitHub Actions Migration
-## Overview
+
+# Overview
 This project demonstrates migration from Azure Pipelines to GitHub Actions for a .NET 8 solution.
 
-## Requirements Met
+# Requirements Met
 Convert Azure Pipelines to GitHub Actions  
 Create .NET 8 solution for testing  
 Run on generally available hosted runner (`ubuntu-latest`)  
